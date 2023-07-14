@@ -3,14 +3,14 @@ package gr.aueb.cf.ch10;
 import java.util.Arrays;
 
 /**
- * {@link Project07Array2DShallowAndDeepCopy} provides
+ * {@link Project07Array2DShallowAndDeepCopyApp} provides
  provides methods to create shallow and deep copies of a 2D array.
  * It demonstrates how both methods work and
  * prints their string representations.
  *
  * @author demitra
  */
-public class Project07Array2DShallowAndDeepCopy {
+public class Project07Array2DShallowAndDeepCopyApp {
 
     public static void main(String[] args) {
         int[][] array = {{5, 10, 15, 20}, {25, 30, 35, 40, 45}, {50, 55, 60}, {65, 70}, {75, 80, 85, 90, 95}};
