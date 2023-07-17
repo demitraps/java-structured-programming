@@ -3,7 +3,7 @@ package gr.aueb.cf.ch10;
 import java.util.Arrays;
 
 /**
- * * The {@link Project06LargestSumContiguousSubArrayApp} class
+ * The {@link Project06LargestSumContiguousSubArrayApp} class
  * is responsible for finding
  * the largest sum of a contiguous sub-array
  * within a given array.

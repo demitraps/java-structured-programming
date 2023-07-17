@@ -1,7 +1,8 @@
-package gr.aueb.cf.testbed.ch10;
+package gr.aueb.cf.ch10;
 
 /**
- * Finds and prints lowest and highest index of a key in a given sorted array,
+ * The {@link Project05GetLowAndHighIndexApp} class
+ * finds and prints lowest and highest index of a key in a given sorted array,
  * after checking if the key exists in said array.
  * For example, assume the given array is {0, 1, 4, 4, 4, 6, 7, 8, 8, 8, 8, 8}:
  * and the key is 8.

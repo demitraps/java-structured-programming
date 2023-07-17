@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- *  {@link Project08TicTacToeApp} implements
+ *  The {@link Project08TicTacToeApp} class implements
  *  a Tic Tac Toe game application.
  *  It reads the position selection from two players (X and o)
  *  and updates the board game adding the players symbol.

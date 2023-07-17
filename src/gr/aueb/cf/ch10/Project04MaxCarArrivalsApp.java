@@ -1,10 +1,11 @@
-package gr.aueb.cf.testbed.ch10;
+package gr.aueb.cf.ch10;
 
 import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * Calculates the maximum number of cars parked at the same time in a hypothetical garage.
+ * The {@link Project04MaxCarArrivalsApp} class
+ * calculates the maximum number of cars parked at the same time in a hypothetical garage.
  * The data is provided in a 2D array of the following format:
  * arr[][] = { {1012, 1136}, {1317, 1417}, {1015, 1020} }
  * where the first car arrived at 10:12 and departed at 11:36,

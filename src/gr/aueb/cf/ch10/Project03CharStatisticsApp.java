@@ -1,4 +1,4 @@
-package gr.aueb.cf.testbed.ch10;
+package gr.aueb.cf.ch10;
 
 import java.io.*;
 import java.nio.file.Path;
@@ -8,7 +8,8 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * Reads one-by-one, all characters(any UTF-8 character) of a file and
+ * The {@link Project03CharStatisticsApp} class
+ * reads one-by-one, all characters(any UTF-8 character) of a file and
  * inputs them in a 2D array, 256x2.
  * Each row has two positions, one for the character
  * and one of its occurrence (count) within the text.

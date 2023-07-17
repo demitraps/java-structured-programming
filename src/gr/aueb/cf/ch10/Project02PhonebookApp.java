@@ -1,4 +1,4 @@
-package gr.aueb.cf.testbed.ch10;
+package gr.aueb.cf.ch10;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  * Phonebook app.
- * Stores up to 500 contacts in an array.
+ * The {@link Project02PhonebookApp} class stores up to 500 contacts in an array.
  * Contact information include: surname, name, phone number.
  * Prints menu of options.
  * Actions that can be performed in phonebook:

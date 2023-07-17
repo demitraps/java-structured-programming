@@ -13,7 +13,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * Reads integers from a file
+ * The {@link Project01Lotto6App} class reads integers from a file
  * until it finds sentinel -1.
  * The file must contain more than 6 integers, within the 1 - 49 range (inclusive).
  * The integers are inserted to an array and are sorted.

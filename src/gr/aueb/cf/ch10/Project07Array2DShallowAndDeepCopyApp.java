@@ -3,7 +3,7 @@ package gr.aueb.cf.ch10;
 import java.util.Arrays;
 
 /**
- * {@link Project07Array2DShallowAndDeepCopyApp} provides
+ * {@link Project07Array2DShallowAndDeepCopyApp} class
  provides methods to create shallow and deep copies of a 2D array.
  * It demonstrates how both methods work and
  * prints their string representations.
